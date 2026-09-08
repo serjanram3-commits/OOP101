@@ -11,6 +11,7 @@ public class M3E3 {
     public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
          
+         System.out.println("By: Ser Jan Perzeus H. Ram");
          System.out.println("Enter temperature (in celcius): " );
          double C = scanner.nextDouble();
          

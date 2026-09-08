@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class M3E5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("By: Ser Jan Perzeus H. Ram");
         
         System.out.print("Enter your Quiz grade: ");
         double quiz = scanner.nextDouble();

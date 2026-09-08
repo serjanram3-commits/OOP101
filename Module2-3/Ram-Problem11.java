@@ -8,7 +8,8 @@ import java.util.Scanner;
 public class M3E1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
+
+        System.out.println("By: Ser Jan Perzeus H. Ram");
         System.out.print("Enter your Hours Worked: ");
         double hours_worked = scanner.nextDouble();
         
